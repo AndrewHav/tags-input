@@ -31,14 +31,14 @@ ul {
   margin-bottom: 15px;
 }
 
-#tags-input {
+#tags-input1, #tags-input2 {
   height: 40px;
   font-size: 24px;
   padding: 0 10px;
   margin-bottom: 20px;
 }
 
-#tags-list {
+#tags-list1, #tags-list2 {
   list-style: none;
   display: flex;
   align-items: center;
